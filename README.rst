@@ -22,7 +22,16 @@ Project structure:
 
 library
 -------
-Working code samples for Arduino and Microbit.
+Working code samples:
+
+- `Arduino
+<https://github.com/barseghyanartur/programming-for-children/tree/master/library/arduino>`_.
+- `Microbit
+<https://github.com/barseghyanartur/programming-for-children/tree/master/library/microbit>`_.
+
+Make sure to check the `game
+<https://github.com/barseghyanartur/programming-for-children/blob/master/library/microbit/game.py>`_
+written for Microbit. Children seemed to like it a lot.
 
 scripts
 -------
@@ -30,7 +39,12 @@ Helper scripts (build docs, install docs requirements).
 
 source
 ------
-The course material.
+The course material:
+
+- `Arduino
+<https://github.com/barseghyanartur/programming-for-children/blob/master/source/arduino.rst>`_
+- `Microbit
+<https://github.com/barseghyanartur/programming-for-children/blob/master/source/microbit.rst>`_.
 
 Build/generate the documentation
 --------------------------------
