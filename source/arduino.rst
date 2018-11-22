@@ -35,7 +35,7 @@ Wat heel belangrijk is om te weten:
 
 
 - Alle gaatjes van een rei (laten zien), van "a" tot "e" en van "f" tot "j"
- zijn met elkaar verbonden.
+  zijn met elkaar verbonden.
 - Alle gaatjes van een plusteken kolom ("+") zijn aan elkaar verbonden.
 - Alle gaatjes van een minteken kolom ("-") zijn aan elkaar verbonden.
 - Linkerkant van de Breadboard is niet aangesloten aan de rechterkant.
@@ -69,9 +69,9 @@ Proefwerken
 Voordat je verder gaat:
 
 - Pak een kabel, plug een kant in de "5V" op Arduino board, plug de andere kant
- in een van de "+" gaatjes op de Breadboard.
+  in een van de "+" gaatjes op de Breadboard.
 - Pak een andere kabel, plug een kant in de "GND" op Arduino board, plug de
- andere kant in een van de "-" gaatjes op de Breadboard.
+  andere kant in een van de "-" gaatjes op de Breadboard.
 
 .. image:: _static/arduino_images/00_arduino_en_breadboard.jpg
     :width: 100 %
